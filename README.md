@@ -5,5 +5,5 @@ solutions to Hackerrank problems.
 - Java
 
 ## Problems
-- [Welcome to Java!] -> [<solution](hackerrank-solutions/java
+- [Welcome to Java!] -> [solution](<hackerrank-solutions/java
 /Java Int to String>)
