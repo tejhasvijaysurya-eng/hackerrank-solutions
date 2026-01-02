@@ -1,4 +1,4 @@
-# hackerrank-solutions
+# Hackerrank-solutions
 solutions to Hackerrank problems.
 
 ## Languages Used
