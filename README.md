@@ -5,4 +5,4 @@ solutions to Hackerrank problems.
 - Java
 
 ## Problems
-- [Welcome to Java!] -> [solution](java /Welcome to Java!)
+- [Welcome to Java!] -> [solution] (java /Welcome to Java!)
